@@ -1,2 +1,3 @@
-# LaLaLoud
-a project for adi devfest
+
+Making the Bloop! webapp
+
